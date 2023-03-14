@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.count-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 350px;
+  width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.heading {
+  color: #0f172a;
+  font-size: 32px;
+}
+.description {
+  font-size: 18px;
+  color: #334155;
+}
+.note-des {
+  font-size: 8px;
+  color: #334155;
+}
